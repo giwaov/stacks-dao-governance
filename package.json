@@ -1,5 +1,5 @@
 {
-  "name": "stacks-dao-governance",
+  "name": "@stacksnpmv/stacks-dao-governance",
   "version": "1.0.0",
   "private": true,
   "scripts": {
